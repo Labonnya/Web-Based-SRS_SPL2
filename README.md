@@ -1,2 +1,2 @@
 # SRS_SPL2
-srs
+The Web-based SRS Documentation System is a comprehensive platform designed to facilitate the creation, management, and collaboration of Software Requirements Specification (SRS) documents. The system offers various features such as a Use Case Diagram editor, Class-Responsibility-Collaboration (CRC) card management, Swimlane diagram creation, and Activity diagram generation, State Transition Diagram, Behavioural Modelling, Sequence Diagram etc. Users can conveniently create, edit, and share SRS documents online, promoting efficient communication and collaboration among project stakeholders. The system streamlines the SRS development process and enhances project documentation management.
